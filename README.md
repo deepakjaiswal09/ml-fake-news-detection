@@ -135,18 +135,10 @@ jupyter notebook fake_news_detection.ipynb
 
 ## 🙋 Contact & Support
 
-> This project was made with ❤️ by **Deepak Jaiswal**
+> This project was made by **Deepak Jaiswal**
 
 📧 **Email:** jaiswaldeepak9238@gmail.com
 
-Need Full Project with Explanation Video, PPT, Report & Source Code?
-
 📩 Feel free to reach out!
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use it for academic and learning purposes.
 
 ---
