@@ -6,6 +6,11 @@ Fake News Detection is a **Machine Learning**-based project that aims to classif
 
 This project is ideal for college students and researchers looking to implement **text classification** problems using ML.
 
+<img width="1920" height="1080" alt="Screenshot (715)" src="https://github.com/user-attachments/assets/7088aff6-99a4-48fa-86d5-c1b8e618b339" />
+
+<img width="1920" height="1080" alt="Screenshot (716)" src="https://github.com/user-attachments/assets/3a3e17b8-06e3-4a44-ad6d-2947ee1ff798" />
+
+
 ---
 
 ## 📂 Problem Statement
